@@ -3,9 +3,8 @@ import pymysql
 # Step 1: MySQL se connect hona
 conn = pymysql.connect(
     host="localhost",        # hamesha string
-    port=3306,               # default MySQL port
     user="root",             # apna MySQL username
-    password="6376361029@Vss", # apna MySQL password
+    password="6376361029@Vss", # apna MySQL password 
     database="Teacher"       # apna database
 )
 
