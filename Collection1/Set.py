@@ -1,16 +1,16 @@
-# val={1,3,4,5,2,2,"helo","world","helo"}
+val={1,3,4,5,2,2,"helo","world","helo"}
 
-# print(val)
-# print(type(val))
+print(val)
+print(type(val))
 
-# num= set()
+num= set()
 
-# num.add(1)
-# num.add(2)
-# num.add(2)
-# num.add("Vikram")
-# print(num)
-# print(num.clear)
+num.add(1)
+num.add(2)
+num.add(2)
+num.add("Vikram")
+print(num)
+print(num.clear)
 
 
 set1={1,2,3,4}
